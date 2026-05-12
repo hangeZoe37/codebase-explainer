@@ -1,0 +1,6 @@
+{
+  "name": "Exegesis Core",
+  "description": "A high-fidelity IDE Intelligence Simulator for freshers. Explains cross-file dependencies and low-level execution logic with architectural mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
